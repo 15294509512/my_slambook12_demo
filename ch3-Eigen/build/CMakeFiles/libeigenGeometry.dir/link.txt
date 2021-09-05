@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibeigenGeometry.a  CMakeFiles/libeigenGeometry.dir/src/libeigenGeometry.cpp.o
-/usr/bin/ranlib liblibeigenGeometry.a

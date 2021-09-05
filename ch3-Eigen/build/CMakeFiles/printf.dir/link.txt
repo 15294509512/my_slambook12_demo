@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/printf.dir/main.cpp.o  -o printf -rdynamic liblibeigenMatrix.a liblibeigenGeometry.a 
