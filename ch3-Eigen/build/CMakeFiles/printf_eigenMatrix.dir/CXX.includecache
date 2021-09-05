@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libeigenMatrix.h
+
+/home/jack-gu/slambook_demo/my_demo/ch3-Eigen/main.cpp
+libeigenMatrix.h
+/home/jack-gu/slambook_demo/my_demo/ch3-Eigen/libeigenMatrix.h
+
